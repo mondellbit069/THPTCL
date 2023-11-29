@@ -6,4 +6,4 @@ ans = (c * b) / 2
 a = math.sqrt(b ** 2 + c ** 2)
 
 print('Diện tích tam giác: ', ans)
-print('Độ dài cạnh huyền là: ', a)
+print('Độ dài cạnh huyền: ', a)
